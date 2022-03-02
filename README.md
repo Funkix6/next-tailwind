@@ -1,5 +1,5 @@
 ## Fast Next + Taiwlind
 
-* Pull this repo
+* Download this repo
 * npm run dev
 * localhost:3000
